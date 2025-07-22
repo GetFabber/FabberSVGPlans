@@ -1,9 +1,10 @@
 {
   "plan_ids": [
     "42577",
-    "45879",
-    "46781",
-    "48932"
+    "54508",
+    "55478",
+    "66415",
+    "66414"
   ],
   "last_updated": "2023-06-15",
   "notes": "These are the valid plan IDs for the GetFabber SVG Export SketchUp plugin"
